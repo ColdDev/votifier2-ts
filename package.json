@@ -1,0 +1,21 @@
+{
+    "name": "votifier2-ts",
+    "version": "0.0.1",
+    "description": "A modified version of votifier2 package with additional TypeScript support and replaces callbacks with Promises.",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ColdDev/votifier2-ts"
+    },
+    "keywords": [
+        "minecraft",
+        "votifier"
+    ],
+    "author": "ColdDev <colddev@pm.me>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ColdDev/votifier2-ts/issues"
+    },
+    "homepage": "https://github.com/ColdDev/votifier2-ts"
+}
